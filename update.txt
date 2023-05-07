@@ -1,0 +1,7 @@
+UPDATER
+
+download version.txt
+if(version > lastversion)
+download Update.zip
+
+extract
